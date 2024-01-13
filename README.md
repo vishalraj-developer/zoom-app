@@ -20,3 +20,8 @@ Zoom Clone that works on Android & iOS!
 17. End Call
 18. See Your Meeting History
 19. Log out
+
+## Image
+<p align="center">
+  <img width="600" src="https://github.com/vishalraj-developer/zoom-app/blob/main/screenshot.png" alt="Youtube Tutorial Image">
+</p>
